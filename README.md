@@ -2,8 +2,6 @@
 
 Environment                                           | Build status
 ----------------------------------------------------: | :-------------------------------------------------------------
-
-
 [Production](https://todo.herokuapp.com/)     | [![Build Status (master)](https://travis-ci.org/henrikadler/hello_go.svg)](https://travis-ci.org/henrikadler/hello_go)
 
 ## TODO
