@@ -7,7 +7,7 @@ Environment                                           | Build status
 ## TODO
  - [x] Write my first go app.
  - [x] Add some tests.
- - [x] Write my first go app.
+ - [x] Automatically build it using travis-ci.
  - [ ] Map project with heroku.
 
 
